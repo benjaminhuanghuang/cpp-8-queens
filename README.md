@@ -6,7 +6,7 @@ index -> row
 value -> column index
 
 
-## 
+## Recusrion method solveNQ()
 - 
 
 ## 
